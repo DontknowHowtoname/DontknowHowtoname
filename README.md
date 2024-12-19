@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🌱 I’m currently learning Machine learning and computer vision
+- 🔭 I’m currently working on multimodal image Generalization
 
 <!--
 **DontknowHowtoname/DontknowHowtoname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
